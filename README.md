@@ -1,7 +1,7 @@
 # EXP-05 Design and development of a warehouse management application using Salesforce.com
-DEVELOPED BY:VIMALA RANI A
+DEVELOPED BY:DEEPAK.R
 
-REG NO:212223040240
+REG NO:212223040031
 # Aim:
 
 To creating a warehouse application in salesforce.com.
